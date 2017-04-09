@@ -1,4 +1,3 @@
-2nd assignment
 This is the block driver to create disk of 512kb on RAM. This disk is split into three primary partition and three logical partition of different file system. In our module we use the different "MBR table" for both MBR and BR, it contains the time at which disk has been created and original physical drive of the disk. The address of original physical drive,sec,MIN & hour are from 220, 221, 222, 223 respectively. 
 
 Steps to be followed to execute the module.
